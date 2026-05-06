@@ -3,6 +3,13 @@ body {
   color: white;
 }
 
+#warning {
+  border: 2px dashed darkred;
+  width: 500px;
+  margin: 16px auto;
+  padding: 8px 0;
+}
+
 h1 {
   margin: 0 auto;
   width: 600px;
